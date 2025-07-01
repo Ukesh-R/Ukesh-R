@@ -40,6 +40,30 @@
 
 ## 📱 Featured Projects
 
+### 🚀 Flutter & Full-Stack Projects
+
+
+- 💧 **[QuickChat](https://github.com/Ukesh-R/flash-chat)**  
+  `Flutter`  + `Firebase` + 'Dart`
+  QuickChat is a real-time messaging app built using Flutter and Firebase. It allows users to securely sign in and exchange live messages with a sleek and modern interface.
+
+  
+- ✅ **[digital-dice](https://github.com/Ukesh-R/dice_app)**  
+  `Flutter` + `dart` 
+  A dice simulator built using Flutter and Dart, featuring animation, random logic, and a clean UI. Great for board games and decision-making tasks.
+
+- 💰 **[BMI-Tracker](https://github.com/Ukesh-R/BMI_calculator)**  
+  `Flutter` + `dart`  
+  Real-time crypto price conversion and tracking with a clean, responsive UI.
+
+- 🍽️ **[Attendance-Tracking-System](https://github.com/Ukesh-R/Attendance_Tracking_system)**  
+  `Flutter` + `dart`  
+  Mobile-based smart attendance tracking app built using Flutter and Firebase. It allows teachers to record attendance and students to track their presence with ease.
+
+- 📋 **[Weather Dectector](https://github.com/Ukesh-R/weather_dectector)**  
+  `Flutter` + `Node.js` + `Express.js` + `MongoDB` + `OpenWeatherMap API`  
+  Weather detector  that displays real-time weather data using live API integration. It features GPS detection, city search, and dynamic UI updates.
+
 
 ---
 
